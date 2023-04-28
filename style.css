@@ -1,0 +1,50 @@
+* {
+    font: 700 16px 'Open Sans', sans-serif;
+}
+.header {
+    background-color: blue;
+}
+.main_content1 {
+    background-color: blue;
+}
+.main_content2 {
+    background-color: gray;
+    color: white;
+}
+.main_content2_item--1 {
+    border-style: solid;
+    border-color: blue;
+}
+.main_content2_item--2 {
+    border-style: solid;
+    border-color: blue;
+}
+.main_content2_item--3 {
+    border-style: solid;
+    border-color: blue;
+}
+.main_content2_item--4 {
+    border-style: solid;
+    border-color: blue;
+}
+.main_content3 {
+    background-color: gray;
+    color: white;
+    border-style: solid;
+}
+.main_content3_project1 {
+    border-style: solid;
+    border-color: blue;
+}
+.main_content3_project2 {
+    border-style: solid;
+    border-color: blue;
+}
+.main_content3_project3 {
+    border-style: solid;
+    border-color: blue;
+}
+.footer {
+    background-color: gray;
+    color: white;
+}
